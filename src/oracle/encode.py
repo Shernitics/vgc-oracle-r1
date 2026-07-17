@@ -1,0 +1,1 @@
+# state encoder, turns live Battle object into a fixed-length number vector the network can read (active mons, HP, status, boosts, field)

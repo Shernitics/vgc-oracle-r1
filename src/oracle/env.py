@@ -1,0 +1,1 @@
+# The RL environment, wraps poke-env in standard reset () / step() interface RL algorithms expect, and defines the reward (+1 win / −1 loss).

@@ -1,0 +1,1 @@
+# The network which defines the PyTorch neural net, input = vector from encode.py, output = a score per legal move.

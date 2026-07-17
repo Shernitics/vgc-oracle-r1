@@ -1,0 +1,1 @@
+# The scorekeeper which loads a trained model.pt, plays N battles vs a fixed opponent, and reports win-rate.

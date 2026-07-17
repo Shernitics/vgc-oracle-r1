@@ -1,0 +1,1 @@
+# The players/bots, scripted baselines (RandomPlayer, MaxBasePowerPlayer) and eventually trained agent loads model.pt and picks moves.
